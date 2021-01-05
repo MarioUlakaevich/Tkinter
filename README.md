@@ -1,3 +1,3 @@
-# financeApp
+# Tkinter practice
 
-A little Budget desktop App on Python with a TKinter Library
+A little desktop Apps on Python with a TKinter Library
